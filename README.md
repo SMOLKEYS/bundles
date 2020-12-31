@@ -1,4 +1,5 @@
-# MindustryMod-Template
-Mindustry Mod Template
+# Bundles
+Bundles
 
-フォルダを削除したい場合はフォルダ内の".gitkeep"を消してください。
+Changes the names of blocks.
+May be a potentially cursed mod.
