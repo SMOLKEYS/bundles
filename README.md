@@ -12,3 +12,6 @@ Thanks to QmelZ for suggesting scrap2items,
 sup3r87 for suggesting stubborn cheese,
 🦋Moth_Noises🦋(@-> Daily Moth) for suggesting "observe as i melt down".
 (**They're badly misspelled**)
+
+
+Bundles V7 is now in the works. As of V6.800, some ui translations are now done.
