@@ -8,10 +8,16 @@ May be a potentially cursed mod.
 Click [here](https://github.com/SMOLKEYS) to access other stuff i made.
 
 
-Thanks to QmelZ for suggesting scrap2items,
-sup3r87 for suggesting stubborn cheese,
-🦋Moth_Noises🦋(@-> Daily Moth) for suggesting "observe as i melt down".
-(**They're badly misspelled**)
+Bundles **V7** is now in the works. As of V6.800, some ui translations are now done.
+
+You can help me through Pull Requests and add your own text.
+
+You will be added to a list called **Helpers**.
+
+Rules:
+
+- No NSFW text
+- Thats it
 
 
-Bundles V7 is now in the works. As of V6.800, some ui translations are now done.
+Helpers:
