@@ -8,6 +8,6 @@ May be a potentially cursed mod.
 Click [here](https://github.com/SMOLKEYS) to access other stuff i made.
 
 
-Bundles **V7** is now in the works. As of V6.800, some ui translations are now done.
+Bundles **V7** is now in the works. As of V6.900, majority of the ui translations are now done.
 
 
