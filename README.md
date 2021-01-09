@@ -10,3 +10,6 @@ Click [here](https://github.com/SMOLKEYS) to access other stuff i made.
 
 
 Bundles **V7** is now in the works.
+
+
+Check out the [Bleeding-Edge supported version here.](https://github.com/SMOLKEYS/bundles/tree/bleedingedge)
