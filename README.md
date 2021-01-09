@@ -13,4 +13,4 @@ Download:
 Bundles **V7** is now in the works.
 
 
-Check out the [Bleeding-Edge supported version here.](https://github.com/SMOLKEYS/bundles/tree/bleedingedge)
+Also check out: [![he](https://github.com/SMOLKEYS/h/blob/main/text2image_F7891519_20210109_140221.png)](https://github.com/SMOLKEYS/bundles/tree/bleedingedge)
