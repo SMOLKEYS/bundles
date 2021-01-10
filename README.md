@@ -1,7 +1,7 @@
 # Bundles
 
 
-Changes the names of text to something else cursed. As of **v7 Pre-release 2**, more *UI text* has been changed. Watch out for more updates!
+Changes the text to something else cursed. As of **v7 Pre-release 2**, more *UI text* has been changed. Watch out for more updates!
 
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
