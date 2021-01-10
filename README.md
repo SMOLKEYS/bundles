@@ -1,15 +1,12 @@
 # Bundles
 
 
-Changes the names of blocks.
-May be a potentially cursed mod.
+Changes the names of text to something else cursed. As of v7 Pre-release 1, _online support_ has been added. Now you can experience cursed text in a server or local multiplayer game! :D
 
 
 Download:
+
 [Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7)
-
-
-Bundles **V7** is now in the works.
 
 
 Also check out: 
