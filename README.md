@@ -10,7 +10,7 @@ You can contribute by making your own changes in the bundle.properties file to h
 - No replacing other people's changes
 - Thats it
 
-*If any of these rules are broken, your Pull Request will be closed following a message mentioning the rule broken.*
+*If any of these rules are broken, your Pull Request will be closed following a message mentioning the rule broken also including a label saying "rule broken"*
 
 
 
