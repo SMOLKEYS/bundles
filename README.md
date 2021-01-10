@@ -11,14 +11,14 @@ Download:
 
 Also check out: 
 
-[Bundles BE](https://github.com/SMOLKEYS/bundles/tree/bleedingedge)
+[Bundles BE/Bleeding-Edge](https://github.com/SMOLKEYS/bundles/tree/bleedingedge)
 
-[SMOLKEYS](https://github.com/SMOLKEYS)
+[SMOLKEYS (Mod Creator)](https://github.com/SMOLKEYS)
 
-[RebornTrack970 (Contributor)](https://github.com/RebornTrack970)
+[RebornTrack970 (Mod Contributor)](https://github.com/RebornTrack970)
 
-[Goobrr (Contributor)](https://github.com/Goobrr)
+[Goobrr (Mod Contributor)](https://github.com/Goobrr)
 
-[Lapis256 (Template Creator)](https://github.com/Lapis256)
+[Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
 [Bundles+ (Soon)](https://github.com/SMOLKEYS/bundles-plus)
