@@ -1,7 +1,7 @@
 # Bundles
 
 
-Changes the names of text to something else cursed. As of v7 Pre-release 1, _online support_ has been added. Now you can experience cursed text in a server or local multiplayer game! :D
+Changes the names of text to something else cursed. As of **v7 Pre-release 1**, *online support* has been added. Now you can experience cursed text in a server or local multiplayer game! :D
 
 
 Download:
