@@ -1,6 +1,5 @@
 # Bundles
 
-![h](https://github.com/SMOLKEYS/bundles/blob/master/PicsArt_01-09-03.19.58.jpg)
 
 Changes the names of blocks.
 May be a potentially cursed mod.
