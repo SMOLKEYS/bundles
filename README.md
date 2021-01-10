@@ -20,7 +20,7 @@ Also check out:
 
 [RebornTrack970 (Contributor)](https://github.com/RebornTrack970)
 
-[Goobrr (Contributor](https://github.com/Goobrr)
+[Goobrr (Contributor)](https://github.com/Goobrr)
 
 [Lapis256 (Template Creator)](https://github.com/Lapis256)
 
