@@ -21,4 +21,4 @@ Also check out:
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
-[Bundles+ (Soon)](https://github.com/SMOLKEYS/bundles-plus)
+[Bundles+ (Upcoming Mod Soon)](https://github.com/SMOLKEYS/bundles-plus)
