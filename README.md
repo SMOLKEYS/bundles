@@ -13,6 +13,14 @@ You can contribute by making your own changes in the bundle.properties file to h
 *If any of these rules are broken, your Pull Request will be closed following a message mentioning the rule broken also including a label saying "rule broken".*
 
 
+Targets:
+
+- A v7 release of bundles  - In Progress...
+
+- Bundles+  - Not started on yet...
+
+- Progress to v7  - Around halfway...
+
 
 Download:
 
