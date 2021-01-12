@@ -1,7 +1,7 @@
 # Bundles
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 3**, RT970 once again contributed, making more cursed text. Stay tuned for more updates!
+Changes the text to something else cursed. As of **v7 Pre-release 4**, More cursed text has been made. Stay tuned for more updates!
 
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
