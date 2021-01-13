@@ -1,7 +1,7 @@
 # Bundles
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 5.1**, Josherisfun contributed and made a more cursed text. Stay tuned for more updates!
+Changes the text to something else cursed. As of **v7 Pre-release 5.1**, JosherIsFun contributed updating some cursed text. Stay tuned for more updates!
 
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
@@ -22,7 +22,7 @@ Targets:
 
 Download:
 
-[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre5)
+[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre5.1)
 
 
 Also check out: 
@@ -36,6 +36,8 @@ Also check out:
 [Goobrr (2nd Mod Contributor)](https://github.com/Goobrr)
 
 [Fish-Noises (3rd Mod Contributor)](https://github.com/Fish-Noises)
+
+[JosherIsFun (4th Mod Contributor)](https://github.com/JosherIsFun)
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
