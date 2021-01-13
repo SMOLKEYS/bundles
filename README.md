@@ -1,7 +1,7 @@
 # Bundles
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 4**, Fish-Noises contributed and made a lot more cursed text. Stay tuned for more updates!
+Changes the text to something else cursed. As of **v7 Pre-release 5**, Fish-Noises contributed and made a lot more cursed text. Stay tuned for more updates!
 
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
@@ -22,7 +22,7 @@ Targets:
 
 Download:
 
-[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre3)
+[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre5)
 
 
 Also check out: 
