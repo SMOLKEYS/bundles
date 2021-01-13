@@ -31,7 +31,7 @@ Also check out:
 
 [SMOLKEYS (Mod Creator)](https://github.com/SMOLKEYS)
 
-[RebornTrack970 (1st Mod Contributor)](https://github.com/RebornTrack970)
+[RebornTrack970 (1st Mod Contributor)(Most Trusted)](https://github.com/RebornTrack970)
 
 [Goobrr (2nd Mod Contributor)](https://github.com/Goobrr)
 
