@@ -1,7 +1,7 @@
 # Bundles
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 4**, More cursed text has been made. Stay tuned for more updates!
+Changes the text to something else cursed. As of **v7 Pre-release 4**, Fish-Noises contributed and made a lot more cursed text. Stay tuned for more updates!
 
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
@@ -34,6 +34,8 @@ Also check out:
 [RebornTrack970 (1st Mod Contributor)](https://github.com/RebornTrack970)
 
 [Goobrr (2nd Mod Contributor)](https://github.com/Goobrr)
+
+[Fish-Noises (3rd Mod Contributor)](https://github.com/Fish-Noises)
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
