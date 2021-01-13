@@ -1,7 +1,7 @@
 # Bundles
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 5.1**, JosherIsFun contributed updating some cursed text. Stay tuned for more updates!
+Changes the text to something else cursed. As of **v7 Pre-release 6**, JosherIsFun contributed once again, making cursed descriptions. Stay tuned for more updates!
 
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
@@ -22,7 +22,7 @@ Targets:
 
 Download:
 
-[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre5.1)
+[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre6)
 
 
 Also check out: 
