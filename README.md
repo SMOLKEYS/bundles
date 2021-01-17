@@ -1,7 +1,7 @@
 # Bundles
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 7**, RebornTrack970 contributed once again, making cursed editor text. Stay tuned for more updates!
+Changes the text to something else cursed. As of **v7 Pre-release 8**, Fish-Noises made a huge contribution, making cursed block descriptions. Stay tuned for more updates!
 
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
