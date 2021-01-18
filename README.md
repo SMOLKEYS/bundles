@@ -1,13 +1,12 @@
 # Bundles
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 8.2**, JosherIsFun contributed once again, making more cursed UI text. Stay tuned for more updates!
+Changes the text to something else cursed. As of **v7 Pre-release 8.3**, JosherIsFun contributed once again, making slight changes. Stay tuned for more updates!
 
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
 
 - No NSFW text
-- No replacing other people's changes
 - Thats it
 
 *If any of these rules are broken, your Pull Request will be closed following a message mentioning the rule broken also including a label saying "rule broken".*
