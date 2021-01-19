@@ -1,7 +1,7 @@
 # Bundles
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 8.3**, JosherIsFun contributed once again, making slight changes. Stay tuned for more updates!
+Changes the text to something else cursed. As of **v7 Pre-release 8.4**, JosherIsFun contributed once again, making small cursed block details. Stay tuned for more updates!
 
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
