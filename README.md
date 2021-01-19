@@ -1,8 +1,7 @@
 # Cursed Bundles
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 8.6**, Fish-Noises contributed once again, making cursed unit details. Stay tuned for more updates!
-(That update gap between v7-pre8.5 and v7-pre8.6 though...)
+Changes the text to something else cursed. As of **v7 Pre-release 8.7**, RebornTrack970 made his own changes. Stay tuned for more updates!
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
 
