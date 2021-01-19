@@ -1,4 +1,4 @@
-# Cursedbundles
+# Cursed Bundles
 
 
 Changes the text to something else cursed. As of **v7 Pre-release 8.6**, Fish-Noises contributed once again, making cursed unit details. Stay tuned for more updates!
@@ -14,8 +14,8 @@ You can contribute by making your own changes in the bundle.properties file to h
 
 Targets:
 
-- A v7 release of cursesbundles  - In progress...
-- Cursedbundles+  - Not started on yet...
+- A v7 release of Cursed Bundles  - In progress...
+- Cursed Bundles+  - Not started on yet...
 - Progress to v7  - Around halfway...
 
 
@@ -26,7 +26,7 @@ Download:
 
 Also check out: 
 
-[Bundles BE/Bleeding-Edge](https://github.com/SMOLKEYS/bundles/tree/bleedingedge)
+[Cursed Bundles BE/Bleeding-Edge](https://github.com/SMOLKEYS/bundles/tree/bleedingedge)
 
 [SMOLKEYS (Mod Creator)](https://github.com/SMOLKEYS)
 
@@ -40,5 +40,5 @@ Also check out:
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
-[Cursedbundles+ (Upcoming Mod Soon)](https://github.com/SMOLKEYS/bundles-plus)
+[Cursed Bundles+ (Upcoming Mod Soon)](https://github.com/SMOLKEYS/bundles-plus)
 
