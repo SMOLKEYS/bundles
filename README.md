@@ -36,7 +36,7 @@ Also check out:
 
 [Fish-Noises (3rd Mod Contributor)](https://github.com/Fish-Noises)
 
-[JosherIsFun (4th Mod Contributor)](https://github.com/JosherIsFun)
+[JosherIsFun (4th Mod Contributor)(Most Active Contributor)](https://github.com/JosherIsFun)
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
