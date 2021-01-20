@@ -20,7 +20,7 @@ Targets:
 
 Download:
 
-[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre8.8)
+[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre8.9)
 
 
 Also check out: 
