@@ -1,6 +1,8 @@
 # Cursed Bundles
 
 
+[Discord Server](https://discord.gg/9M2VRAVGz8)
+
 Changes the text to something else cursed. As of **v7 Pre-release 8.8**, more changes were made by me. Stay tuned for more updates!
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
@@ -13,19 +15,15 @@ You can contribute by making your own changes in the bundle.properties file to h
 
 Targets:
 
-- A v7 release of Cursed Bundles  - In progress...
-- Cursed Bundles+  - Not started on yet...
-- Progress to v7  - Around halfway...
+- A v7 release of Bundles  - In progress...
 
 
 Download:
 
-[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre6)
+[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre8.8)
 
 
 Also check out: 
-
-[Cursed Bundles BE/Bleeding-Edge](https://github.com/SMOLKEYS/bundles/tree/bleedingedge)
 
 [SMOLKEYS (Mod Creator)](https://github.com/SMOLKEYS)
 
@@ -39,5 +37,5 @@ Also check out:
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
-[Cursed Bundles+ (Upcoming Mod Soon)](https://github.com/SMOLKEYS/bundles-plus)
+[Bundles+ (Upcoming Mod Soon)](https://github.com/SMOLKEYS/bundles-plus)
 
