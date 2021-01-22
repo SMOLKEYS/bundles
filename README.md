@@ -8,7 +8,7 @@ Changes the text to something else cursed. As of **v7 Pre-release 10**, I made m
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
 
 - No NSFW text
-- Thats it
+- Thats it.
 
 *If any of these rules are broken, your Pull Request will be closed following a message mentioning the rule broken also including a label saying "rule broken".*
 
