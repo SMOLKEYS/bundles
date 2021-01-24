@@ -3,7 +3,6 @@
 
 [Discord Server](https://discord.gg/9M2VRAVGz8) 
 
-![Forks](https://img.shields.io/github/forks/SMOLKEYS/bundles?style=for-the-badge)
 
 Changes the text to something else cursed. As of **v7 Pre-release 10**, I made my own changes. Stay tuned for more updates!
 
