@@ -36,6 +36,3 @@ Also check out:
 [JosherIsFun (4th Mod Contributor)(Most Active Contributor)](https://github.com/JosherIsFun)
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
-
-[Bundles+ (Upcoming Mod Soon)](https://github.com/SMOLKEYS/bundles-plus)
-
