@@ -13,18 +13,12 @@ You can contribute by making your own changes in the bundle.properties file to h
 
 *If any of these rules are broken, your Pull Request will be closed following a message mentioning the rule broken also including a label saying "rule broken".*
 
-
-Targets:
-
-- A v7 release of Bundles  - In progress...
-
-
-Download:
+# Download:
 
 [Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre10)
 
 
-Also check out: 
+# Also check out: 
 
 [SMOLKEYS (Mod Creator)](https://github.com/SMOLKEYS)
 
