@@ -1,4 +1,4 @@
-# Cursed Bundles
+# Bundles
 
 
 [Discord Server](https://discord.gg/9M2VRAVGz8) 
