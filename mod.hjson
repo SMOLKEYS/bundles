@@ -1,8 +1,8 @@
 {
-"name": "cursedbundles",
+"name": "bundles",
 "displayName": "Bundles",
 "author": "SMOLKEYS",
-"description": "Kills braincells. Am i supposed to even say anything?",
+"description": "Kills braincells. Am i supposed to even say anything? Probably not.",
 "version": "7-pre10",
 "minGameVersion": "121",
 "hidden": true
