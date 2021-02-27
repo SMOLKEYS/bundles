@@ -30,4 +30,7 @@ You can contribute by making your own changes in the bundle.properties file to h
 
 [JosherIsFun (4th Mod Contributor)(Most Active Contributor)](https://github.com/JosherIsFun)
 
+[WilloIzCitron (5th Mod Contributor](https://github.com/WilloIzCitron)
+
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
+
