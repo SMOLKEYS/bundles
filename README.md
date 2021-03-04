@@ -4,7 +4,7 @@
 [Discord Server](https://discord.gg/9M2VRAVGz8) 
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 13**, WilloIzCitron contributed, changing the logic tooltips. Stay tuned for more updates!
+Changes the text to something else cursed. As of **v7 Pre-release 14**, MEEPofFaith contributed, giving the duo an *intresting* name and description. Stay tuned for more updates!
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
 
@@ -15,7 +15,7 @@ You can contribute by making your own changes in the bundle.properties file to h
 
 # Download:
 
-[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre13)
+[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre14)
 
 
 # Also check out: 
@@ -31,6 +31,8 @@ You can contribute by making your own changes in the bundle.properties file to h
 [JosherIsFun (4th Mod Contributor)(Most Active Contributor)](https://github.com/JosherIsFun)
 
 [WilloIzCitron (5th Mod Contributor)](https://github.com/WilloIzCitron)
+
+[MEEPofFaith (6th Mod Contributor)](https://github.com/MEEPofFaith)
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
