@@ -4,7 +4,11 @@
 [Discord Server](https://discord.gg/9M2VRAVGz8) 
 
 
-Changes the text to something else cursed. As of **v7 Pre-release 14**, MEEPofFaith contributed, giving the duo and shock mine an *intresting* name and description. Stay tuned for more updates!
+Changes the text to something else cursed.
+
+# v7 is now complete!
+
+After working for a long while with others, Bundles v7 is now complete! Enjoy! (v8 soon)
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
 
@@ -15,7 +19,7 @@ You can contribute by making your own changes in the bundle.properties file to h
 
 # Download:
 
-[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-pre14)
+[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-full)
 
 
 # Also check out: 
