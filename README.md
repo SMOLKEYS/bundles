@@ -15,7 +15,7 @@ You can contribute by making your own changes in the bundle.properties file to h
 
 # Download:
 
-[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v7-full)
+[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v8-pre1)
 
 
 # Also check out: 
