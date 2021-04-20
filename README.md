@@ -17,11 +17,6 @@ You can contribute by making your own changes in the bundle.properties file to h
 
 *If any of these rules are broken, your Pull Request will be closed following a message mentioning the rule broken also including a label saying "rule broken".*
 
-# Download:
-
-[Latest Release](https://github.com/SMOLKEYS/bundles/releases/tag/v8-pre2)
-
-
 # Also check out: 
 
 [SMOLKEYS (Mod Creator)](https://github.com/SMOLKEYS)
