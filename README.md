@@ -15,8 +15,6 @@ You can contribute by making your own changes in the bundle.properties file to h
 - No NSFW text
 - Thats it
 
-*If any of these rules are broken, your Pull Request will be closed following a message mentioning the rule broken also including a label saying "rule broken".*
-
 # Also check out: 
 
 [SMOLKEYS (Mod Creator)](https://github.com/SMOLKEYS)
