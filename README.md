@@ -4,7 +4,11 @@
 [Discord Server](https://discord.gg/9M2VRAVGz8) 
 
 
-Changes the text to something else cursed. As of v8 Pre-release 2, I made my own changes. Stay tuned for more updates!
+Changes the text to something else cursed.
+
+v8-pre3 log:
+- cursed status effect moment
+- h y d r a t e
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
 
@@ -33,6 +37,8 @@ You can contribute by making your own changes in the bundle.properties file to h
 [WilloIzCitron (5th Mod Contributor)](https://github.com/WilloIzCitron)
 
 [MEEPofFaith (6th Mod Contributor)](https://github.com/MEEPofFaith)
+
+[genNAowl (7th Mod Contributor)](https://github.com/genNAowl)
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
