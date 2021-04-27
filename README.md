@@ -6,9 +6,9 @@
 
 Changes the text to something else cursed.
 
-v8-pre3 log:
-- cursed status effect moment
-- h y d r a t e
+v8-pre4 log:
+- meep has done the tf2
+- new person contributes, causes r/cursed
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
 
