@@ -6,8 +6,8 @@
 
 Changes the text to something else cursed.
 
-v8-pre4.00001 log:
-- change
+v8-pre4.2069 log:
+- meep, do not
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
 
