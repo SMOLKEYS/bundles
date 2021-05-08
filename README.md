@@ -6,10 +6,9 @@
 
 Changes the text to something else cursed.
 
-v8-pre5-MEGA log:
-- Names of modded blocks are now changed
-- Active rule "No NSFW text" less strict
-- Added more cursed mishaps
+v8-pre6-oh no log:
+- Gave 4 different people collaborator access to Bundles.
+- meep does the the
 
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
 
