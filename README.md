@@ -6,7 +6,7 @@
 
 Changes the text to something else cursed.
 
-v8-pre6-oh no log:
+v8-pre6-ono log:
 - Gave 4 different people collaborator access to Bundles.
 - meep does the the
 
