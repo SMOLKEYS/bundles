@@ -25,7 +25,7 @@ You can contribute by making your own changes in the bundle.properties file to h
 
 [Fish-Noises (3rd Mod Contributor)](https://github.com/Fish-Noises)
 
-[JosherIsFun (4th Mod Contributor)(Most Active Contributor)](https://github.com/JosherIsFun)
+[JosherIsFun (4th Mod Contributor)](https://github.com/JosherIsFun)
 
 [WilloIzCitron (5th Mod Contributor)](https://github.com/WilloIzCitron)
 
