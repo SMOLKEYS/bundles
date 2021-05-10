@@ -33,5 +33,9 @@ You can contribute by making your own changes in the bundle.properties file to h
 
 [genNAowl (7th Mod Contributor)](https://github.com/genNAowl)
 
+[TheGamer1002 (8th Mod Contributor)](https://github.com/TheGamer1002)
+
+[Meltdown-Altair (9th Mod Contributor)](https://github.com/Meltdown-Altair)
+
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
