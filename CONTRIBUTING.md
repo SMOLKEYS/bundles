@@ -1,3 +1,5 @@
+# Contributing
+
 You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
 
 - No NSFW text
