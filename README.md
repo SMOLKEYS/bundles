@@ -1,6 +1,6 @@
 # Bundles
 
-
+[Contributing](https://github.com/SMOLKEYS/bundles/blob/master/CONTRIBUTING.md)
 [Discord Server](https://discord.gg/9M2VRAVGz8) 
 
 
@@ -10,10 +10,6 @@ v8-pre6-ono log:
 - Gave 4 different people collaborator access to Bundles.
 - meep does the the
 
-You can contribute by making your own changes in the bundle.properties file to help with the updating, but keep in mind:
-
-- No NSFW text
-- Thats it
 
 # Also check out: 
 
