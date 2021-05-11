@@ -4,4 +4,5 @@ You can contribute by making your own changes in the bundle.properties file to h
 - Thats it
 
 if you breaks the rules, your pull automaticaly closed after review
+
 plase do not do that
