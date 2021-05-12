@@ -5,6 +5,6 @@ You can contribute by making your own changes in the bundle.properties file to h
 - No NSFW text
 - Thats it
 
-if you breaks the rules, your pull request automaticaly closed after review by owner or collaborators
+If you break the rules, your pull request will be automatically closed after being reviewed by owner or collaborators.
 
-plase do not do that
+please do not do that
