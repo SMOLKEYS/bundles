@@ -7,10 +7,8 @@
 
 Changes the text to something else cursed.
 
-v8-pre6-ono log:
-- Gave 4 different people collaborator access to Bundles.
-- meep does the the
-
+v8-pre7akasuffering log:
+- reject english, become anglish
 
 # Also check out: 
 
