@@ -9,7 +9,7 @@ Changes the text to something else cursed.
 
 v8-pre no log:
 - sh1p enters the chat
-- brain
+- qmelz enters the chat through @everyone
 
 # Also check out: 
 
