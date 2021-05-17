@@ -7,8 +7,8 @@
 
 Changes the text to something else cursed.
 
-v8-pre7akasuffering log:
-- reject english, become anglish
+v8-pre8 log:
+- sh1p enters the chat
 
 # Also check out: 
 
