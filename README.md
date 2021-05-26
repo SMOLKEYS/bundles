@@ -35,3 +35,10 @@ v8-pre no log:
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
+#Others mods by the amazing contributor team!
+
+[Meltdown-Altair/RoombanDustry](https://github.com/Meltdown-Altair/RoombanDustry)
+
+[RebornTrack970/RTsPlanets](https://github.com/RebornTrack970/RTsPlanets)
+
+More to be found and posted!
