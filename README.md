@@ -7,9 +7,8 @@
 
 Changes the text to something else cursed.
 
-v8-pre no log:
-- sh1p enters the chat
-- qmelz enters the chat through @everyone
+v8-pre10 log:
+- meltdown altair
 
 # Also check out: 
 
