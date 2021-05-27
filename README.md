@@ -41,4 +41,6 @@ v8-pre no log:
 
 [RebornTrack970/RTsPlanets](https://github.com/RebornTrack970/RTsPlanets)
 
+[Goobrr/amogus](https://github.com/Goobrr/amogus)
+
 More to be found and posted!
