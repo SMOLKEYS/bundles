@@ -34,7 +34,7 @@ v8-pre10 log:
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
-#Others mods by the amazing contributor team!
+# Others mods by the amazing contributor team!
 
 [Meltdown-Altair/RoombanDustry](https://github.com/Meltdown-Altair/RoombanDustry)
 
