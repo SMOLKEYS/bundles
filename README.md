@@ -7,8 +7,9 @@
 
 Changes the text to something else cursed.
 
-v8-pre10 log:
-- meltdown altair
+v8-pre anime log:
+- cheesy-chan and city girl
+- what am i doing with my life -SMOLKEYS
 
 # Also check out: 
 
