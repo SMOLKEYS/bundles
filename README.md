@@ -1,13 +1,14 @@
 # Bundles
 
-[Discord Server](https://discord.gg/9M2VRAVGz8) 
 
+[Discord Server](https://discord.gg/9M2VRAVGz8) 
 
 Changes the text to something else cursed.
 
 v8-pre anime log:
 - cheesy-chan and city girl
 - what am i doing with my life -SMOLKEYS
+
 
 # Also check out: 
 
@@ -33,9 +34,11 @@ v8-pre anime log:
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
+
 #  [Contributing](https://github.com/SMOLKEYS/bundles/blob/master/CONTRIBUTING.md)
 
 Please check before contributing.
+
 
 # Other mods by the amazing contributor team!
 
@@ -48,5 +51,7 @@ Please check before contributing.
 [Goobrr/shitass](https://github.com/Goobrr/shitass)
 
 [Fish-Noises/BadlyTranslated](https://github.com/Fish-Noises/BadlyTranslated)
+
+[MEEPofFaith/prog-mats-java](https://github.com/MEEPofFaith/prog-mats-java)
 
 More to be found and posted!
