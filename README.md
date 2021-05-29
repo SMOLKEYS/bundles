@@ -1,7 +1,5 @@
 # Bundles
 
-[Contributing](https://github.com/SMOLKEYS/bundles/blob/master/CONTRIBUTING.md)
-
 [Discord Server](https://discord.gg/9M2VRAVGz8) 
 
 
@@ -34,6 +32,10 @@ v8-pre anime log:
 [Meltdown-Altair (9th Mod Contributor)](https://github.com/Meltdown-Altair)
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
+
+#  [Contributing](https://github.com/SMOLKEYS/bundles/blob/master/CONTRIBUTING.md)
+
+Please check before contributing.
 
 # Other mods by the amazing contributor team!
 
