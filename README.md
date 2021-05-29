@@ -47,4 +47,6 @@ Please check before contributing.
 
 [Goobrr/shitass](https://github.com/Goobrr/shitass)
 
+[Fish-Noises/BadlyTranslated](https://github.com/Fish-Noises/BadlyTranslated)
+
 More to be found and posted!
