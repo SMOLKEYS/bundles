@@ -35,12 +35,14 @@ v8-pre anime log:
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
-# Others mods by the amazing contributor team!
+# Other mods by the amazing contributor team!
 
 [Meltdown-Altair/RoombanDustry](https://github.com/Meltdown-Altair/RoombanDustry)
 
 [RebornTrack970/RTsPlanets](https://github.com/RebornTrack970/RTsPlanets)
 
 [Goobrr/amogus](https://github.com/Goobrr/amogus)
+
+[Goobrr/shitass](https://github.com/Goobrr/shitass)
 
 More to be found and posted!
