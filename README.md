@@ -59,7 +59,7 @@ Please check before contributing.
 
 [QmelZ/bundle-scrambler](https://github.com/QmelZ/bundle-scrambler)
 
-# Other mods that Bundles also affects!
+# Other mods that Bundles also changes!
 
 [Sh1penfire/pixelcraft](https://github.com/Sh1penfire/pixelcraft)
 
