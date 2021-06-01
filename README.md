@@ -5,9 +5,8 @@
 
 Changes the text to something else cursed.
 
-v8-pre anime log:
-- cheesy-chan and city girl
-- what am i doing with my life -SMOLKEYS
+v8-pre14 log:
+- status effects now have descriptions and details, dingus moment indeed
 
 
 # Also check out: 
