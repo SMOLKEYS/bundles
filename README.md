@@ -53,4 +53,10 @@ Please check before contributing.
 
 [MEEPofFaith/prog-mats-java](https://github.com/MEEPofFaith/prog-mats-java)
 
+# Other mods suitable with Bundles!
+
+[QmelZ/region-scrambler](https://github.com/QmelZ/region-scrambler)
+
+[QmelZ/bundle-scrambler](https://github.com/QmelZ/bundle-scrambler)
+
 More to be found and posted!
