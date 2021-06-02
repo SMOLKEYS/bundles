@@ -5,8 +5,8 @@
 
 Changes the text to something else cursed.
 
-v8-pre14 log:
-- status effects now have descriptions and details, dingus moment indeed
+v8-pre15 log:
+- extras
 
 
 # Also check out: 
