@@ -5,8 +5,9 @@
 
 Changes the text to something else cursed.
 
-v8-pre15 log:
-- extras
+v8-pre16 log:
+- sharded invented gravity
+- noone, probably
 
 
 # Also check out: 
