@@ -5,9 +5,8 @@
 
 Changes the text to something else cursed.
 
-v8-pre16 log:
-- sharded invented gravity
-- noone, probably
+v8-pre17 log:
+- java walware
 
 
 # Also check out: 
@@ -31,6 +30,8 @@ v8-pre16 log:
 [TheGamer1002 (8th Mod Contributor)](https://github.com/TheGamer1002)
 
 [Meltdown-Altair (9th Mod Contributor)](https://github.com/Meltdown-Altair)
+
+[QmelZ (10th Mod Contributor)](https://github.com/QmelZ)
 
 [Lapis256 (Mod Template Creator)](https://github.com/Lapis256)
 
