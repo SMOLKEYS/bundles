@@ -6,7 +6,7 @@
 Changes the text to something else cursed.
 
 v8-pre18 log:
-- ⬆️↕️⬆️↕️⬅️⬅️➡️➡️⬆️
+- ⬆️⬇️⬆️⬇️⬅️⬅️➡️➡️⬆️
 
 
 # Also check out: 
