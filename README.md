@@ -1,7 +1,7 @@
 # Bundles
 
 
-[Discord Server](https://discord.gg/9M2VRAVGz8) 
+[Discord Server(DELETED)](https://discord.gg/9M2VRAVGz8) 
 
 Changes the text to something else cursed.
 
@@ -43,26 +43,27 @@ Please check before contributing.
 
 # Other mods by the amazing contributor team!
 
-[Meltdown-Altair/RoombanDustry](https://github.com/Meltdown-Altair/RoombanDustry)
+[![prog-mats-java](https://github-readme-stats.vercel.app/api/pin/?username=MEEPofFaith&repo=prog-mats-java&theme=dark&show_owner=true)](https://github.com/MEEPofFaith/prog-mats-java)
 
-[RebornTrack970/RTsPlanets](https://github.com/RebornTrack970/RTsPlanets)
+[![roombandustry](https://github-readme-stats.vercel.app/api/pin/?username=Meltdown-Altair&repo=RoombanDustry&theme=dark&show_owner=true)](https://github.com/Meltdown-Altair/RoombanDustry)
 
-[Goobrr/amogus](https://github.com/Goobrr/amogus)
+[![rtsplanets](https://github-readme-stats.vercel.app/api/pin/?username=RebornTrack970&repo=RTsPlanets&theme=dark&show_owner=true)](https://github.com/RebornTrack970/RTsPlanets)
 
-[Goobrr/shitass](https://github.com/Goobrr/shitass)
+[![amogus](https://github-readme-stats.vercel.app/api/pin/?username=Goobrr&repo=amogus&theme=dark&show_owner=true)](https://github.com/Goobrr/amogus)
 
-[Fish-Noises/BadlyTranslated](https://github.com/Fish-Noises/BadlyTranslated)
+[![shitass](https://github-readme-stats.vercel.app/api/pin/?username=Goobrr&repo=shitass&theme=dark&show_owner=true)](https://github.com/Goobrr/shitass)
 
-[MEEPofFaith/prog-mats-java](https://github.com/MEEPofFaith/prog-mats-java)
+[![badlytranslated](https://github-readme-stats.vercel.app/api/pin/?username=Fish-Noises&repo=BadlyTranslated&theme=dark&show_owner=true)](https://github.com/Fish-Noises/BadlyTranslated)
+
 
 # Other mods suitable with Bundles!
 
-[QmelZ/region-scrambler](https://github.com/QmelZ/region-scrambler)
+[![region-scrambler](https://github-readme-stats.vercel.app/api/pin/?username=QmelZ&repo=region-scrambler&theme=dark&show_owner=true)](https://github.com/QmelZ/region-scrambler)
 
-[QmelZ/bundle-scrambler](https://github.com/QmelZ/bundle-scrambler)
+[![bundle-scrambler](https://github-readme-stats.vercel.app/api/pin/?username=QmelZ&repo=bundle-scrambler&theme=dark&show_owner=true)](https://github.com/QmelZ/bundle-scrambler)
 
 # Other mods that Bundles also changes!
 
-[Sh1penfire/pixelcraft](https://github.com/Sh1penfire/pixelcraft)
+[![pixelcraft](https://github-readme-stats.vercel.app/api/pin/?username=Sh1penfire&repo=pixelcraft&theme=dark&show_owner=true)](https://github.com/Sh1penfire/pixelcraft)
 
 More to be found and posted!
