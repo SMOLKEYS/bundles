@@ -41,7 +41,7 @@ v8-pre18 log:
 Please check before contributing.
 
 
-# Other mods by the amazing contributor team!
+# Other mods by me and the contributor team!
 
 [![prog-mats-java](https://github-readme-stats.vercel.app/api/pin/?username=MEEPofFaith&repo=prog-mats-java&theme=dark&show_owner=true)](https://github.com/MEEPofFaith/prog-mats-java)
 
@@ -55,6 +55,7 @@ Please check before contributing.
 
 [![badlytranslated](https://github-readme-stats.vercel.app/api/pin/?username=Fish-Noises&repo=BadlyTranslated&theme=dark&show_owner=true)](https://github.com/Fish-Noises/BadlyTranslated)
 
+[![uicu](https://github-readme-stats.vercel.app/api/pin/?username=SMOLKEYS&repo=UICU&theme=dark&show_owner=true)](https://github.com/SMOLKEYS/UICU)
 
 # Other mods suitable with Bundles!
 
