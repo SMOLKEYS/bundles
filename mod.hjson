@@ -1,9 +1,9 @@
 {
-"name": "bundles",
-"displayName": "Bundles",
+"name": "bundles-v5",
+"displayName": "Bundles V5 Edition",
 "author": "SMOLKEYS",
-"description": "hehe angish go nrrrt",
+"description": "Welcome back.",
 "version": "8 Pre-release 18",
-"minGameVersion": "126",
+"minGameVersion": "104",
 "hidden": true
 }
