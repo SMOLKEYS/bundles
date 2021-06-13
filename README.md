@@ -5,8 +5,8 @@
 
 Changes the text to something else cursed.
 
-v8-pre18 log:
-- ⬆️⬇️⬆️⬇️⬅️⬅️➡️➡️⬆️
+v8-pre19 log:
+- ~~Thanks to Intervection for free reference material!~~
 
 
 # Also check out: 
