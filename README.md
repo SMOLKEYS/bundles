@@ -68,3 +68,5 @@ Please check before contributing.
 [![pixelcraft](https://github-readme-stats.vercel.app/api/pin/?username=Sh1penfire&repo=pixelcraft&theme=dark&show_owner=true)](https://github.com/Sh1penfire/pixelcraft)
 
 More to be found and posted!
+
+# Star The Mod!
