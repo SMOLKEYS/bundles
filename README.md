@@ -7,7 +7,7 @@ Changes the text to something else cursed.
 
 v8 log:
 - eeeeeee lets commit v9
-
+- also planning to reuse the releases tab below
 
 # Also check out: 
 
