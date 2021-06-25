@@ -5,9 +5,7 @@
 
 Changes the text to something else cursed.
 
-v8 log:
-- eeeeeee lets commit v9
-- also planning to reuse the releases tab below
+Go to the [Releases](http://github.com/SMOLKEYS/bundles/releases) tab for logs!
 
 # Also check out: 
 
