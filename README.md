@@ -5,8 +5,8 @@
 
 Changes the text to something else cursed.
 
-v8-pre19 log:
-- ~~Thanks to Intervection for free reference material!~~
+v8 log:
+- eeeeeee lets commit v9
 
 
 # Also check out: 
