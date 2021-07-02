@@ -8,3 +8,5 @@
 ~~If you break the rules, your pull request will be automatically closed after being reviewed by owner or collaborators.~~
 
 ~~please do not do that~~
+
+Bundles no longer accepts contributors.
