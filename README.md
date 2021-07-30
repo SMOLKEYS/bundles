@@ -1,1 +1,3 @@
-# Bundles for BetaMindy
+# Bundles for UAW
+
+WIP!
