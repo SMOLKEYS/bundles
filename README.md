@@ -1,8 +1,3 @@
-# Bundles
+# Bundles for ER
 
-A cursed translation mod.
-
-
-## Sub-mods
-
-None, yet.
+WIP!
