@@ -1,9 +1,9 @@
 {
-"name": "bundles",
-"displayName": "Bundles",
-"author": "SMOLKEYS",
-"description": "hehe angish go nrrrt",
-"version": "14",
-"minGameVersion": "126",
-"hidden": true
+  "name": "bundles",
+  "displayName": "Bundles",
+  "author": "SMOLKEYS",
+  "description": "hehe angish go nrrrt",
+  "version": "14",
+  "minGameVersion": "136",
+  "hidden": true
 }
