@@ -3,6 +3,4 @@
 A cursed translation mod.
 
 
-## Sub-mods
-
-None, yet.
+[Extension Pack (Yellow)](https://github.com/SMOLKEYS/bundles-extension-yellow-java)
