@@ -2,8 +2,8 @@
   "name": "bundles",
   "displayName": "Bundles",
   "author": "SMOLKEYS",
-  "description": "hehe angish go nrrrt",
-  "version": "14",
+  "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)",
+  "version": "three",
   "minGameVersion": "136",
   "hidden": true
 }
