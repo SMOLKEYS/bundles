@@ -1,6 +1,5 @@
 # Bundles
 
-A cursed translation mod.
+horrible fucking garbage 🔥🔥🔥🔥🔥🔥 now 4 years old
 
-
-[Extension Pack (Yellow)](https://github.com/SMOLKEYS/bundles-extension-yellow-java)
+[extender pack: yellow](https://github.com/SMOLKEYS/bundles-extension-yellow-java)
